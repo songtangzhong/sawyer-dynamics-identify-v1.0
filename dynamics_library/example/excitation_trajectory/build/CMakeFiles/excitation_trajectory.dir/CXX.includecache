@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stz/sawyer-dynamics-identify-v1.0/dynamics_library/example/excitation_trajectory/src/excitation_trajectory.cpp
+robot_model.h
+-
+dynamics_identify.h
+-
+nlopt.h
+-
+iostream
+-
+fstream
+-
+math.h
+-
+

@@ -1,0 +1,5 @@
+/usr/include/robot_model.h
+/usr/include/dynamics_identify.h
+/usr/include/robot_math.h
+/usr/include/robot_dynamics.h
+/usr/lib/librobotdynamics.so
